@@ -13,3 +13,10 @@ email = True
 password = False
 
 print (email and password)
+
+print (3>2)
+print (not True)
+
+name = ""
+print (not name)
+print (not 0)
